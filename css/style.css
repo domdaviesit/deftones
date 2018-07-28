@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.topHeader {
+  background: url(/img/DEFTONES_GENERIC_BANNER_1024x1024.png);
+  background-size: cover;
+  height: 400px;
+}
+
+.navMenu {
+  
+}
