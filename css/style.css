@@ -7,7 +7,7 @@ body {
 }
 
 .topHeader {
-  background: url(/img/deftones-facebook-cover.jpeg);
+  background: url(https://domdaviesit.github.io/deftones/img/deftones-facebook-cover.jpeg);
   background-size: cover;
   height: 400px;
 }
@@ -36,7 +36,7 @@ nav {
 
 #video {
   height: 600px;
-  background: url(/img/deftones-prayers-triangles-bg.jpg);
+  background: url(https://domdaviesit.github.io/deftones/img/deftones-prayers-triangles-bg.jpg);
   background-size: cover;
 }
 
