@@ -32,3 +32,13 @@ nav {
   padding-bottom: 20px;
   /* font-family: "Kirang Haerang", cursive; */
 }
+
+#video {
+  height: 600px;
+  background: url(/img/deftones-prayers-triangles-bg.jpg);
+  background-size: cover;
+}
+
+iframe {
+  margin-top: 100px;
+}
